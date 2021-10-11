@@ -1,0 +1,33 @@
+Name,Spezies,Geschlecht,Alter (Jahre),Steril,Beine,Gewicht (lbs),Zeit zur Adoption (Wochen)
+Sasha,Katze,weiblich,1,FALSE,4,6.5,3
+Snuffles,Hase,weiblich,3,TRUE,4,3.5,8
+Mittens,Katze,weiblich,2,TRUE,4,7.4,1
+Sunflower,Katze,weiblich,5,TRUE,4,8.1,6
+Felix,Katze,maennlich,16,TRUE,4,9.2,5
+Sheba,Katze,weiblich,7,TRUE,4,8.4,6
+Billie,Schnecke,hermaphrodit,0.5,FALSE,0,0.1,3
+Snowcone,Katze,weiblich,2,TRUE,4,6.5,5
+Wade,Katze,maennlich,1,FALSE,4,3.2,1
+Hercules,Katze,maennlich,3,FALSE,4,13.4,2
+Toggle,Hund,weiblich,3,TRUE,4,48,1
+Boo-boo,Hund,maennlich,11,TRUE,4,123,24
+Fritz,Hund,maennlich,4,TRUE,4,92,3
+Midnight,Hund,weiblich,5,FALSE,4,112,4
+Rex,Hund,maennlich,1,FALSE,4,28.9,9
+Gir,Hund,maennlich,8,FALSE,4,88,5
+Max,Hund,maennlich,3,FALSE,4,52.8,8
+Nori,Hund,weiblich,3,TRUE,4,35.3,1
+Mr. Peanutbutter,Hund,maennlich,10,FALSE,4,161,6
+Lucky,Hund,maennlich,3,TRUE,3,45.4,9
+Kujo,Hund,maennlich,8,FALSE,4,172,30
+Buddy,Echse,maennlich,2,FALSE,4,0.3,3
+Gila,Echse,weiblich,3,TRUE,4,1.2,4
+Bo,Hund,maennlich,8,TRUE,4,76.1,10
+Nibblet,Hase,maennlich,6,FALSE,4,4.3,2
+Snuggles,Tarantel,weiblich,2,FALSE,8,0.1,1
+Daisy,Hund,weiblich,5,TRUE,4,68,8
+Ada,Hund,weiblich,2,TRUE,4,32,3
+Miaulis,Katze,maennlich,7,FALSE,4,8.8,4
+Heathcliff,Katze,maennlich,1,TRUE,4,2.1,2
+Tinkles,Katze,weiblich,1,TRUE,4,1.7,3
+Maple,Hund,weiblich,3,TRUE,4,51.6,4
