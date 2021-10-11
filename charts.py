@@ -26,4 +26,7 @@ def box_plot(table: pd.DataFrame, col: str)-> None:
     column = table[col]
     ax = column.plot.box()
 
+def scatter_plot(table: pd.DataFrame, col1: str, col2: str)-> None:
+    ax = table.plot.scatter(x=col1,y=col2)
+
 
