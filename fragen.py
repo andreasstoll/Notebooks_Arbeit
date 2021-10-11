@@ -34,7 +34,7 @@ def create_multipleChoice_widget(description, options, correct_answer):
             print(s)
         return
     
-    check = widgets.Button(description="submit")
+    check = widgets.Button(description="Überprüfen")
     check.on_click(check_selection)
     
     
@@ -50,7 +50,7 @@ def fragen1():
 
     display(Q1)
     display(Q2)
-    print("Wird die Frage durch kategoriale oder quantitative Daten beantwortet?")
+    print("Werden die folgenden drei Fragen durch kategoriale oder quantitative Daten beantwortet?\n")
     display(Q3)
     display(Q4)
     display(Q5)
