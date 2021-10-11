@@ -17,3 +17,13 @@ def pie_chart(table: pd.DataFrame, col: str)->None:
 def bar_chart(table: pd.DataFrame, col: str)->None:
     pie_chart_series = create_quantity_series(table, col)
     ax=pie_chart_series.plot(kind="bar", rot=60)
+
+def histogram(table: pd.DataFrame, col: str, bin: int)-> None:
+    column = table[col]
+    ax = column.plot.hist(bins=bin)
+
+def box_plot(table: pd.DataFrame, col: str)-> None:
+    column = table[col]
+    ax = column.plot.box()
+
+
