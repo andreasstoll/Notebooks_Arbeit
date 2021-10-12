@@ -70,7 +70,7 @@ def fragen3():
     Q1 = create_multipleChoice_widget('Welcher der folgenden Codes ruft die Zeile von Snowcone richtig ab?',['animal_table.loc[Snowcone]', 'animal_table["Snowcone"]', 'animal_table.loc["Snowcone"]', 'animal_table[Snowcone]'],'animal_table.loc["Snowcone"]')
     Q2 = create_multipleChoice_widget('Welches Attribut ruft der folgende Code ab: ''animal_table.loc["Snowcone"].Geschlecht'' ?',['Das Geschlecht von Bo', 'Das Alter von Bo', 'Das Geschlecht von Snowcone', 'Das Alter von Snowcone'],'Das Geschlecht von Snowcone')
     Q3 = create_multipleChoice_widget('Was muss vorher geschehen sein, damit Bo.Alter das Alter von Bo abruft?',['Die Variable Bo muss definiert werden', 'Die Variable Alter muss definiert werden'],'Die Variable Bo muss definiert werden')
-    Q4 = create_multipleChoice_widget('Welcher der folgenden Codes ruft das Alter von Billie ab?',['animal_table.loc["Billie"]Alter', 'animal_table.loc[Billie]Alter', 'animal_table.loc[Billie].Alter' 'animal_table.loc["Billie"].Alter'],'animal_table.loc["Billie"].Alter')
+    Q4 = create_multipleChoice_widget('Welcher der folgenden Codes ruft das Alter von Billie ab?',['animal_table.loc["Billie"]Alter', 'animal_table.loc[Billie]Alter', 'animal_table.loc[Billie].Alter', 'animal_table.loc["Billie"].Alter'],'animal_table.loc["Billie"].Alter')
 
 
     display(Q1)
