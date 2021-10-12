@@ -56,3 +56,16 @@ def fragen1():
     display(Q5)
 
 
+def fragen3():
+    Q1 = create_multipleChoice_widget('Welcher der folgenden Codes ruft die Zeile von Snowcone ab?',['kategorial', 'quantitativ'],'kategorial')
+    Q2 = create_multipleChoice_widget('Welches Attribut ruft der folgende Code ab: ?',['kategorial', 'quantitativ'],'quantitativ')
+    Q3 = create_multipleChoice_widget('Was muss vorher geschehen sein, damit Bo.Alter das Alter von Bo abruft?',['Die Variable Bo muss definiert werden', 'Die Variable Alter muss definiert werden'],'Die Variable Bo muss definiert werden')
+    Q4 = create_multipleChoice_widget('Welcher der folgenden Codes ruft das Alter von Billie ab?',['kategorial', 'quantitativ'],'quantitativ')
+    Q5 = create_multipleChoice_widget('Wieviele Autos haben eine manuelle Schaltung?',['kategorial', 'quantitativ'],'kategorial')
+
+
+    display(Q1)
+    display(Q2)
+    display(Q3)
+    display(Q4)
+    display(Q5)
