@@ -55,6 +55,16 @@ def fragen1():
     display(Q4)
     display(Q5)
 
+def fragen2():
+    Q1 = create_multipleChoice_widget('Für welchen Datentyp eignet sich ein Kuchendiagramm?',['kategorial', 'quantitativ'],'kategorial')
+    Q2 = create_multipleChoice_widget('Für welchen Datentyp eignet sich ein Histogramm?',['kategorial', 'quantitativ'],'quantitativ')
+    Q3 = create_multipleChoice_widget('Was ist die Bedeutung der 4 bei histogram(animal_table, "Beine", 4)?',['maximale Anzahl Beine', 'minimale Anzahl Beine', 'Anzahl Rechtecke'],'Anzahl Rechtecke')
+
+    display(Q1)
+    display(Q2)
+    display(Q3)
+
+
 
 def fragen3():
     Q1 = create_multipleChoice_widget('Welcher der folgenden Codes ruft die Zeile von Snowcone richtig ab?',['animal_table.loc[Snowcone]', 'animal_table["Snowcone"]', 'animal_table.loc["Snowcone"]', 'animal_table[Snowcone]'],'animal_table.loc["Snowcone"]')
