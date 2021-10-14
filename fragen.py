@@ -77,3 +77,18 @@ def fragen3():
     display(Q2)
     display(Q3)
     display(Q4)
+
+def fragen1a():
+    Q1 = create_multipleChoice_widget('Haarfarbe',['kategorial', 'quantitativ'],'kategorial')
+    Q2 = create_multipleChoice_widget('Postleitzahl',['kategorial', 'quantitativ'],'kategorial')
+    Q3 = create_multipleChoice_widget('Geburtsort',['kategorial', 'quantitativ'],'kategorial')
+    Q4 = create_multipleChoice_widget('Grösse',['kategorial', 'quantitativ'],'quantitativ')
+    Q5 = create_multipleChoice_widget('Gewicht',['kategorial', 'quantitativ'],'quantitativ')
+    Q6 = create_multipleChoice_widget('Wohnort',['kategorial', 'quantitativ'],'kategorial')
+
+    display(Q1)
+    display(Q2)
+    display(Q3)
+    display(Q4)
+    display(Q5)
+    display(Q6)
