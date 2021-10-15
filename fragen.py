@@ -92,3 +92,31 @@ def fragen1a():
     display(Q4)
     display(Q5)
     display(Q6)
+
+
+def fragen10(a1, a2, a3):
+    Q1 = create_multipleChoice_widget('Form?',['linear', 'nicht-linear', 'keine'], a1)
+    Q2 = create_multipleChoice_widget('Richtung?',['steigend', 'fallend', 'keine'], a2)
+    Q3 = create_multipleChoice_widget('Stärke?',['stark', 'schwach'], a3)
+
+    display(Q1)
+    display(Q2)
+    display(Q3)
+
+def frage10A():
+    fragen10("linear", "fallend", "stark")
+
+def frage10B():
+    fragen10("keine", "keine", "schwach")
+
+def frage10C():
+    fragen10("linear", "steigend", "stark")
+
+def frage10D():
+    fragen10("keine", "steigend", "schwach")
+
+def frage10E():
+    fragen10("nicht-linear", "keine", "stark")
+
+def frage10F():
+    fragen10("linear", "fallend", "schwach")
