@@ -29,4 +29,8 @@ def box_plot(table: pd.DataFrame, col: str)-> None:
 def scatter_plot(table: pd.DataFrame, col1: str, col2: str)-> None:
     ax = table.plot.scatter(x=col1,y=col2)
 
-
+def r_value(table: pd.DataFrame, col1: str, col2: str)->float:
+    new_db = pd.DataFrame(table, columns= [col1, col2])
+    r = new_db.corr(method="pearson")
+    return float(r.iloc[0][1])
+    
