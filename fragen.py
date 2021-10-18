@@ -120,3 +120,50 @@ def frage10E():
 
 def frage10F():
     fragen10("linear", "fallend", "schwach")
+
+def fragen11(a1, a2, a3):
+    Q1 = create_multipleChoice_widget('Steigung?',['steigt', 'fällt'], a1)
+    Q2 = create_multipleChoice_widget('Stärke?',['stark', 'schwach'], a2)
+    Q3 = create_multipleChoice_widget('Korrelationskoeffizient r?',['ca. -1', 'ca .-0.5', 'ca. 0', 'ca. 0.5', 'ca. 1'], a3)
+
+    display(Q1)
+    display(Q2)
+    display(Q3)
+
+def frage11A():
+    fragen11("steigt", "stark", "ca. 1")
+
+def frage11B():
+    fragen11("steigt", "schwach", "ca. 0.5")
+
+def frage11C():
+    fragen11("steigt", "stark", "ca. 1")
+
+def frage11D():
+    fragen11("fällt", "stark", "ca. -1")
+
+def frage11lra():
+    Q1 = create_multipleChoice_widget('Die Regressionsgerade ...',['steigt', 'fällt'],'fällt')
+    Q2 = create_multipleChoice_widget('Die Korrelation ist ...',['stark', 'schwach', 'fast nicht existent'],'fast nicht existent')
+    
+    display(Q1)
+    display(Q2)
+
+def frage11lrb():
+    Q1 = create_multipleChoice_widget('Person A hat eine grössere Schuhgrösse als Person B. Es wird erwartet, dass A ...',['grösser ist', 'kleiner ist'],'grösser ist')
+    Q2 = create_multipleChoice_widget('Die Korrelation ist ...',['stark', 'schwach', 'fast nicht existent'],'stark')
+    
+    display(Q1)
+    display(Q2)
+
+def frage11lrc():
+    Q1 = create_multipleChoice_widget('Die Beziehung ist ...',['stark', 'schwach', 'fast nicht existent'],'fast nicht existent')
+    
+    display(Q1)
+
+def frage11lrd():
+    Q1 = create_multipleChoice_widget('Die Korrelation ist ...',['stark', 'moderat', 'schwach'],'moderat')
+    Q2 = create_multipleChoice_widget('Pro verpasste Schulwoche fällt der Durschnitt um ...',['0.26 Punkte', '6.34 Punkte'],'0.26 Punkte')
+    
+    display(Q1)
+    display(Q2)

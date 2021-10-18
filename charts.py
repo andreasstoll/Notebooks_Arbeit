@@ -1,4 +1,6 @@
 import pandas as pd 
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
 
 def create_quantity_series(table: pd.DataFrame, col: str)->pd.Series:
     quantity_dict={}
@@ -34,3 +36,18 @@ def r_value(table: pd.DataFrame, col1: str, col2: str)->float:
     r = new_db.corr(method="pearson")
     return float(r.iloc[0][1])
     
+def lr_plot(table: pd.DataFrame, col1: str, col2:str)->None:
+    x = table[[col1]]
+    y = table[[col2]]
+    regressor = LinearRegression()
+    linear_model = regressor.fit(x, y)
+    m = round(float(linear_model.coef_),3)
+    q = round(float(linear_model.intercept_),3)
+    r = round(r_value(table, col1, col2),3)
+    y_prediction = regressor.predict(x)
+    plt.scatter(x, y, color = 'red')
+    plt.plot(x, y_prediction, color = 'blue')
+    plt.suptitle(f"Lineare Regression: y = {m}x+{q}, Korrelation: {r}")
+    plt.xlabel(col1)
+    plt.ylabel(col2)
+    plt.show()
