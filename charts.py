@@ -47,7 +47,10 @@ def lr_plot(table: pd.DataFrame, col1: str, col2:str)->None:
     y_prediction = regressor.predict(x)
     plt.scatter(x, y, color = 'red')
     plt.plot(x, y_prediction, color = 'blue')
-    plt.suptitle(f"Lineare Regression: y = {m}x+{q}, Korrelation: {r}")
+    if q >= 0:
+        plt.suptitle(f"Lineare Regression: y = {m}x+{q}, Korrelation: {r}")
+    else:
+        plt.suptitle(f"Lineare Regression: y = {m}x{q}, Korrelation: {r}")
     plt.xlabel(col1)
     plt.ylabel(col2)
     plt.show()
