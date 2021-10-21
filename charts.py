@@ -24,8 +24,9 @@ def pie_chart(table: pd.DataFrame, col: str) -> None:
 
 def bar_chart(table: pd.DataFrame, col: str) -> None:
     """Erstellt ein Balkendiagramm der Spalte col des Datensatzes table"""
-    pie_chart_series = create_quantity_series(table, col)
-    ax = pie_chart_series.plot(kind="bar", rot=60)
+    bar_chart_series = create_quantity_series(table, col)
+    bar_chart_series.sort_index(inplace=True)
+    ax = bar_chart_series.plot(kind="bar", rot=60)
 
 
 def histogram(table: pd.DataFrame, col: str, bin: int) -> None:
