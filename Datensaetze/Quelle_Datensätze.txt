@@ -1,1 +1,4 @@
 groesste Bibiotheken Schweiz: https://opendata.swiss/de/dataset/die-zehn-grossten-bibliotheken-der-schweiz-gemass-angebot3
+
+Bootstrap Data Science: https://bootstrapworld.org/materials/latest/en-us/lessons/choosing-your-dataset/about-datasets/for-teachers-about-datasets.html
+Zu den einzelnen Datensätzen gibt es jeweils Details und Readmes. Es wurde nur gewisse Datensätze übersetzt und ins Github gefügt, es lassen sich also mehr Datensätze unter diesem Link finden.
