@@ -1,0 +1,101 @@
+Rang,Titel,Studio,Female-lead,POC-lead,Budget (Millionen USD),Total Bruttoeinnahmen (Millionen USD),Verdienst in den USA (Millionen USD),Verdienst ausserhalb der USA,Jahr
+1.0,Avengers: Endgame,Disney,False,False,400.0,"2,797.8",858.4,"1,939.4",2019.0
+2.0,Avatar,Fox,False,False,237.0,"2,790.4",760.5,"2,029.9",2009.0
+3.0,Titanic,Paramount,False,False,200.0,"2,187.6",659.4,"1,528.2",1997.0
+4.0,Star Wars: The Force Awakens,Disney,True,False,306.0,"2,068.2",936.7,"1,131.5",2015.0
+5.0,Avengers: Infinity War,Disney,False,False,300.0,"2,048.4",678.8,"1,369.6",2018.0
+6.0,Jurassic World,Universal,False,False,215.0,"1,670.4",652.3,"1,018.1",2015.0
+7.0,The Lion King (2019),Disney,False,True,260.0,"1,656.9",543.6,"1,113.3",2019.0
+8.0,The Avengers,Disney,False,False,225.0,"1,518.8",623.4,895.4,2012.0
+9.0,Furious 7,Universal,False,False,190.0,"1,515.0",353.0,"1,162.0",2015.0
+10.0,Frozen II,Disney,True,False,150.0,"1,450.0",477.4,972.6,2019.0
+11.0,Avengers: Age of Ultron,Disney,False,False,365.0,"1,402.8",459.0,943.8,2015.0
+12.0,Harry Potter and the Deathly Hallows Part 2,WB,False,False,125.0,"1,356.6",381.0,975.6,2011.0
+13.0,Black Panther,Disney,False,True,200.0,"1,346.9",700.1,646.8,2018.0
+14.0,Star Wars: The Last Jedi,Disney,True,False,200.0,"1,332.5",620.2,712.3,2017.0
+15.0,Jurassic World: Fallen Kingdom,Universal,False,False,170.0,"1,308.5",416.8,891.7,2018.0
+16.0,Frozen,Disney,True,False,150.0,"1,280.8",400.7,880.1,2013.0
+17.0,Beauty and the Beast (2017),Disney,True,False,160.0,"1,263.5",504.0,759.5,2017.0
+18.0,Incredibles 2,Disney,False,False,200.0,"1,242.8",608.6,634.2,2018.0
+19.0,The Fate of the Furious,Universal,False,False,250.0,"1,236.0",226.0,"1,010.0",2017.0
+20.0,Iron Man 3,Disney,False,False,200.0,"1,214.8",409.0,805.8,2013.0
+21.0,Minions,Universal,False,False,74.0,"1,159.4",336.0,823.4,2015.0
+22.0,Captain America: Civil War,Disney,False,False,250.0,"1,153.3",408.1,745.2,2016.0
+23.0,Aquaman,WB,False,True,160.0,"1,148.5",335.1,813.4,2018.0
+24.0,The Lord of the Rings: The Return of the King,New Line,False,False,94.0,"1,142.0",377.8,764.2,2003.0
+25.0,Spider-Man: Far From Home,Sony,False,False,160.0,"1,131.9",390.5,741.4,2019.0
+26.0,Captain Marvel,Disney,True,False,175.0,"1,128.3",426.8,701.5,2019.0
+27.0,Transformers: Dark of the Moon,Paramount,False,False,195.0,"1,123.8",352.4,771.4,2011.0
+28.0,Skyfall,Sony,False,False,200.0,"1,108.6",304.4,804.2,2012.0
+29.0,Transformers: Age of Extinction,Paramount,False,False,210.0,"1,104.1",245.4,858.7,2014.0
+30.0,The Dark Knight Rises,WB,False,False,230.0,"1,081.0",448.1,632.9,2012.0
+31.0,Joker,WB,False,False,55.0,"1,074.3",335.5,738.8,2019.0
+32.0,Star Wars: The Rise of Skywalker,Disney,True,False,275.0,"1,074.1",515.2,558.9,2019.0
+33.0,Toy Story 4,Disney,False,False,200.0,"1,073.4",434.0,639.4,2019.0
+34.0,Toy Story 3,Disney,False,False,200.0,"1,067.0",415.0,652,2010.0
+35.0,Pirates of the Caribbean: Dead Man's Chest,Disney,False,False,225.0,"1,066.2",423.3,642.9,2006.0
+36.0,Rogue One: A Star Wars Story,Disney,True,False,200.0,"1,056.1",532.2,523.9,2016.0
+37.0,Aladdin,Disney,False,True,182.0,"1,050.7",355.6,695.1,2019.0
+38.0,Pirates of the Caribbean: On Stranger Tides,Disney,False,False,379.0,"1,045.7",241.1,804.6,2011.0
+39.0,Despicable Me 3,Universal,False,False,75.0,"1,034.8",264.6,770.2,2017.0
+40.0,Jurassic Park,Universal,False,False,63.0,"1,032.0",402.5,629.5,1993.0
+41.0,Finding Dory,Disney,True,False,200.0,"1,028.6",486.3,542.3,2016.0
+42.0,Star Wars: The Phantom Menace,Fox,False,False,115.0,"1,027.1",474.5,552.6,1999.0
+43.0,Alice in Wonderland (2010),Disney,True,False,200.0,"1,025.5",334.2,691.3,2010.0
+44.0,Zootopia,Disney,True,False,150.0,"1,023.8",341.3,682.5,2016.0
+45.0,The Hobbit: An Unexpected Journey,New Line,False,False,200.0,"1,017.0",303.0,714,2012.0
+46.0,The Dark Knight,WB,False,False,185.0,"1,008.8",534.9,473.9,2008.0
+47.0,Harry Potter and the Sorcerer's Stone,WB,False,False,125.0,983.1,317.6,665.5,2001.0
+48.0,Harry Potter and the Deathly Hallows Part 1,WB,False,False,125.0,976.9,296.0,680.9,2010.0
+49.0,Despicable Me 2,Universal,False,False,76.0,970.8,368.1,602.7,2013.0
+50.0,The Lion King (1994),Disney,False,False,79.3,968.5,422.8,545.7,1994.0
+51.0,The Jungle Book (2016),Disney,False,True,175.0,966.6,364.0,602.6,2016.0
+52.0,Finding Nemo,Disney,False,False,94.0,962.9,380.8,582.1,2003.0
+53.0,Jumanji: Welcome to the Jungle,Sony,False,True,90.0,962.1,404.5,557.6,2017.0
+54.0,Pirates of the Caribbean: At World's End,Disney,False,False,300.0,961,309.4,651.6,2007.0
+55.0,The Hobbit: The Desolation of Smaug,New Line,False,False,250.0,958.4,258.4,700,2013.0
+56.0,The Hobbit: The Battle of the Five Armies,New Line,False,False,250.0,956,255.1,700.9,2014.0
+57.0,The Lord of the Rings: The Two Towers,New Line,False,False,94.0,951.2,342.6,608.6,2002.0
+58.0,Harry Potter and the Order of the Phoenix,WB,False,False,150.0,942,292.0,650,2007.0
+59.0,Harry Potter and the Half-Blood Prince,WB,False,False,250.0,934.3,302.0,632.3,2009.0
+60.0,Shrek 2,DreamWorks,False,False,70.0,928.8,441.2,487.6,2004.0
+61.0,Bohemian Rhapsody,Fox,False,False,55.0,903.7,216.4,687.3,2018.0
+62.0,Harry Potter and the Goblet of Fire,WB,False,False,150.0,896.3,290.0,606.3,2005.0
+63.0,Spider-Man 3,Sony,False,False,258.0,895,336.5,558.5,2007.0
+64.0,The Lord of the Rings: The Fellowship of the Ring,New Line,False,False,109.0,887.8,315.5,572.3,2001.0
+65.0,Ice Age: Dawn of the Dinosaurs,Fox,False,False,90.0,886.7,196.6,690.1,2009.0
+66.0,Spectre,Sony,False,False,300.0,880.7,200.1,680.6,2015.0
+67.0,Spider-Man: Homecoming,Sony,False,False,175.0,880.2,334.2,546,2017.0
+68.0,Harry Potter and the Chamber of Secrets,WB,False,False,100.0,879,262.0,617,2002.0
+69.0,Ice Age: Continental Drift,Fox,False,False,95.0,877.2,161.3,715.9,2012.0
+70.0,The Secret Life of Pets,Universal,False,False,75.0,875.5,368.4,507.1,2016.0
+71.0,Batman v Superman: Dawn of Justice,WB,False,False,263.0,873.6,330.4,543.2,2016.0
+72.0,Zhan Lang 2,China Film Group,False,True,30.0,870.3,2.7,867.6,2017.0
+73.0,Star Wars: Episode III - Revenge of the Sith,Fox,False,False,115.0,868.4,380.3,488.1,2005.0
+74.0,The Hunger Games: Catching Fire,Lionsgate,True,False,130.0,865,424.7,440.3,2013.0
+75.0,Guardians of the Galaxy Vol. 2,Disney,False,False,200.0,863.8,389.8,474,2017.0
+76.0,Inside Out,Disney,True,False,175.0,857.6,356.5,501.1,2015.0
+77.0,Venom (2018),Sony,False,False,116.0,856.1,212.4,643.7,2018.0
+78.0,Thor: Ragnarok,Disney,False,False,180.0,854,315.1,538.9,2017.0
+79.0,Transformers: Revenge of the Fallen,DreamWorks,False,False,210.0,836.3,402.1,434.2,2009.0
+80.0,Inception,WB,False,False,160.0,829.9,292.6,537.3,2010.0
+81.0,The Twilight Saga: Breaking Dawn Part 2,Summit,True,False,136.2,829.7,292.3,537.4,2012.0
+82.0,Spider-Man,Sony,False,False,139.0,825,403.7,421.3,2002.0
+83.0,Wonder Woman,WB,True,False,150.0,821.8,412.6,409.2,2017.0
+84.0,Independence Day,Fox,False,True,75.0,817.4,306.2,511.2,1996.0
+85.0,Fantastic Beasts and Where To Find Them,WB,False,False,180.0,814,234.0,580,2016.0
+86.0,Shrek the Third,Paramount,False,False,160.0,813.4,322.7,490.7,2007.0
+87.0,Coco,Disney,False,True,175.0,807.1,209.7,597.4,2017.0
+88.0,Harry Potter and the Prisoner of Azkaban,WB,False,False,130.0,800,249.5,550.5,2004.0
+89.0,Jumanji: The Next Level,Sony,False,True,125.0,796.6,316.8,479.8,2019.0
+90.0,Pirates of the Caribbean: Dead Men Tell No Tales,Disney,False,False,230.0,794.9,172.6,622.3,2017.0
+91.0,E.T.: The Extra-Terrestrial,Universal,False,False,10.5,793.5,435.1,358.4,1982.0
+92.0,2012,Sony,False,False,200.0,791.2,166.1,625.1,2009.0
+93.0,Mission: Impossible - Fallout,Paramount,False,False,178.0,791.1,220.2,570.9,2018.0
+94.0,Indiana Jones and the Kingdom of the Crystal Skull,Paramount,False,False,185.0,790.7,317.1,473.6,2008.0
+95.0,Spider-Man 2,Sony,False,False,200.0,789,373.6,415.4,2004.0
+96.0,Fast & Furious 6,Universal,False,False,160.0,788.7,238.7,550,2013.0
+97.0,Deadpool 2,Fox,False,False,110.0,785.8,324.6,461.2,2018.0
+98.0,Deadpool,Fox,False,False,58.0,782.6,363.1,419.5,2016.0
+99.0,Star Wars: A New Hope,Fox,False,False,11.0,775.5,461.0,314.5,1977.0
+100.0,Guardians of the Galaxy,Disney,False,False,170.0,772.8,333.2,439.6,2014.0
